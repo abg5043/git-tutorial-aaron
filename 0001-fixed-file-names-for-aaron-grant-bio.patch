@@ -1,0 +1,31 @@
+From 97277ece53f8aeb4d59509a77ae038d4e7567b62 Mon Sep 17 00:00:00 2001
+From: Aaron Grant <agrant4@missouriwestern.edu>
+Date: Tue, 28 Mar 2023 17:55:57 -0400
+Subject: [PATCH] fixed file names for aaron grant bio
+
+---
+ about/{aaron.html => aaron-grant.html} | 0
+ about/index.html                       | 2 +-
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ rename about/{aaron.html => aaron-grant.html} (100%)
+
+diff --git a/about/aaron.html b/about/aaron-grant.html
+similarity index 100%
+rename from about/aaron.html
+rename to about/aaron-grant.html
+diff --git a/about/index.html b/about/index.html
+index 62eb535..6d5522f 100644
+--- a/about/index.html
++++ b/about/index.html
+@@ -26,7 +26,7 @@
+                 </a>
+             </li>
+             <li>
+-                <a href="aaron.html">
++                <a href="aaron-grant.html">
+                     Aaron: The Developer
+                 </a>
+             </li>
+-- 
+2.39.1
+
